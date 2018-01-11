@@ -1,0 +1,25 @@
+{
+  "name": "injam-sdk",
+  "version": "1.0.0",
+  "description": "Javascript Client for Injam Platform",
+  "main": "injam-sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/injamio/web-sdk.git"
+  },
+  "keywords": [
+    "Location",
+    "Tracking",
+    "Real-Time",
+    "Geography"
+  ],
+  "author": "A.J (@alijmlzd)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/injamio/web-sdk/issues"
+  },
+  "homepage": "https://github.com/injamio/web-sdk#readme"
+}
