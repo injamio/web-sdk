@@ -1,6 +1,6 @@
 {
   "name": "injam-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Javascript Client for Injam Platform",
   "main": "injam-sdk.js",
   "scripts": {
