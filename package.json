@@ -14,12 +14,14 @@
     "Location",
     "Tracking",
     "Real-Time",
-    "Geography"
+    "Geography",
+    "Geospatial",
+    "Messaging"
   ],
   "author": "A.J (@alijmlzd)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/injamio/web-sdk/issues"
   },
-  "homepage": "https://github.com/injamio/web-sdk#readme"
+  "homepage": "https://injam.io"
 }
